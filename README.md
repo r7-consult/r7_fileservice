@@ -184,6 +184,6 @@ r7_fileservice/
 
 ## Контакты
 - Сайт: [Р7-Консалт](https://r7-consult.ru/)
-- Email: erasyuk@gmail.com
+- Email: er@exceldb.pro
 - Телефон: +7 915 258-0371
 - Telegram: https://t.me/r7_js
