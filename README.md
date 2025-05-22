@@ -17,11 +17,10 @@ python -m xldb-proxy-file
 ### Вариант 2: Запуск из готовой сборки
 
 Скачайте исполняемый файл для вашей системы:
-
-- [⬇ Windows](./build/r7_fileservice-windows.exe)
-- [⬇ Ubuntu](./build/r7_fileservice-ubuntu.bin)
-- [⬇ RedOS](./build/r7_fileservice-redos.bin)
-- [⬇ AstraOS](./build/r7_fileservice-astra.bin)
+- <a href="./build/r7_fileservice-windows.exe" download>⬇ Windows</a>
+- <a href="./build/r7_fileservice-ubuntu.bin" download>⬇ Ubuntu</a>
+- <a href="./build/r7_fileservice-redos.bin" download>⬇ RedOS</a>
+- <a href="./build/r7_fileservice-astra.bin" download>⬇ AstraOS</a>
 
 Затем просто выполните:
 
@@ -177,10 +176,13 @@ r7_fileservice/
 │   ├── r7_fileservice-ubuntu.bin
 │   ├── r7_fileservice-redos.bin
 │   └── r7_fileservice-astra.bin
+├── docs/
+│   └── Free XLS FileService - Презентация решения.pdf
 ├── requirements.txt
 └── README.md
 ```
-
+## Презентация решения
+ [Презентация](./docs/Free XLS FileService - Презентация решения.pdf)
 
 ## Контакты
 - Сайт: [Р7-Консалт](https://r7-consult.ru/)
