@@ -11,7 +11,7 @@
 git clone https://github.com/r7-consult/r7_fileservice.git
 cd r7_fileservice
 pip install -r requirements.txt
-python -m xldb-proxy-file
+python -m r7_fileservice
 ```
 
 ### Вариант 2: Запуск из готовой сборки
