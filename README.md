@@ -182,7 +182,7 @@ r7_fileservice/
 └── README.md
 ```
 ## Презентация решения
- [Презентация](./docs/Free XLS FileService - Презентация решения.pdf)
+ <a href="./docs/Free%20XLS%20FileService%20-%20Презентация%20решения.pdf">Презентация</a>
 
 ## Контакты
 - Сайт: [Р7-Консалт](https://r7-consult.ru/)
